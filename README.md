@@ -17,6 +17,7 @@ Feedback ? or Do you have suggestions ? Pull requests or contact me [@ADsecu](ht
 ## Overview
 + [Google Cloud Platform Introduction | Abdelrahman Omran](https://youtu.be/NNPYp1paVPs) (Video / Arabic)  
 + [الحوسبة السحابية: مفهومها وتطبيقاتها في مجال المكتبات ومراكز المعلومات](https://www.qscience.com/docserver/fulltext/qproc/2015/1/qproc.2015.gsla.8.pdf?expires=1556143220&id=id&accname=guest&checksum=E4D20D0DDC0E4AEF80F7536A0C541F4D)
++ [Fundamentals of Google Cloud Platform: A Guided Tour](https://youtu.be/r0zCs2b_ReY) (Video)
 
 
 ## Compute
@@ -139,6 +140,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - Quickstarts: [web UI](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-web-ui) | [classic web UI](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-web-ui-classic) | [Command Line](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line) | [Client Libraries](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries)
 - [Analyzing Big Data in less time with Google BigQuery](https://youtu.be/qqbYrQGSibQ) (Video)
 - [BigQuery - Perfect Companion for Data Lake in GCP](https://www.youtube.com/watch?v=kGVDFzIbhco) (Video)
+- [BigQuery Tips: Nested and Repeated Fields and How GOJEK Builds Data Warehouses](https://www.youtube.com/watch?v=3TVeG_dpGxk) (Video)
 - Labs at qwiklabs:
     - [BigQuery For Data Analysis](https://www.qwiklabs.com/quests/55) (quest)
     - [Using BigQuery with C#](https://www.qwiklabs.com/focuses/2175?parent=catalog) (lab)
