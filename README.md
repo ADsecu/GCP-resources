@@ -8,14 +8,17 @@ Everything helpful about Google Cloud Platform/Google Developers (First Step to 
 
   
     
-Feedback ? or Do you have suggestions ? Pull requests or contact me [@ADsecu](http://twitter.com/adsecu) 
+Feedback ? or Do you have suggestions ? Pull requests or contact me [@ADsecu](http://twitter.com/adsecu)  
+Oh , there is a flutter resources also ! [Click Here](https://github.com/pr-Mais/flutter-resources) 
 ## Google Cloud Product
 ![GCP P](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/Poster-medres.png)
 [*by the Google Developer Relations Team*](https://github.com/gregsramblings/google-cloud-4-words)
 
 
 ## Overview
-+ [Google Cloud Platform Introduction | Abdelrahman Omran](https://youtu.be/NNPYp1paVPs) (Video / Arabic)  
++ Google Cloud Platform Introduction :
+  - [Google Cloud Platform Introduction](https://youtu.be/NNPYp1paVPs) (Video / Arabic) 
+  - Google Cloud Platform - Online Study Jam: [Arabic1](https://www.youtube.com/watch?v=hkFgLFu5w8U&), [arabic2](https://www.youtube.com/watch?v=eZnmGxI_CNU), [English](https://youtu.be/hkFgLFu5w8U) 
 + [الحوسبة السحابية: مفهومها وتطبيقاتها في مجال المكتبات ومراكز المعلومات](https://www.qscience.com/docserver/fulltext/qproc/2015/1/qproc.2015.gsla.8.pdf?expires=1556143220&id=id&accname=guest&checksum=E4D20D0DDC0E4AEF80F7536A0C541F4D)
 + [Fundamentals of Google Cloud Platform: A Guided Tour](https://youtu.be/r0zCs2b_ReY) (Video)
 
@@ -55,6 +58,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Microservices in the Cloud with Kubernetes and Istio](https://www.youtube.com/watch?v=gauOI0O9fRM) (Video)
 - [Kubernetes Engine: Google Cloud Platform](https://www.youtube.com/watch?v=VfBDrZggIzY&t) using qwiklabs (Video / Arabic)
 - [Run Containers on GCP's Serverless Infrastructure](https://www.youtube.com/watch?v=xVuuvZkYiNM) (Video)
+- [Kubernetes - Online Study Jam](https://www.youtube.com/watch?v=XeubVVDwaak) (video)
 - Labs at Qwiklabs :  
     - [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/3662?parent=catalog) (lab)
     - [Google Kubernetes Engine Best Practices](https://www.qwiklabs.com/quests/63) (Quest)
@@ -166,7 +170,11 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 
 
 ## AI and Machine Learning
-*Cloud Speech-To-Text, Cloud Text-To-Speech, Cloud Translation API*
+*Cloud Speech-To-Text, Cloud Text-To-Speech, Cloud Translation API*  
+- [Machine Learning APIs - Online Study Jam](https://www.youtube.com/watch?v=0FOmKhDzxlg) (video / Arabic)
+- [Machine Learning TensorFlow - Online Study Jam](https://www.youtube.com/watch?v=2RYB4QYVZLs) (video / Arabic)
+- [Machine Learning APIs - Online Study Jam](https://www.youtube.com/watch?v=FsJcGQKCx0A) (video)
+- [Machine Learning TensorFlow - Online Study Jam](https://www.youtube.com/watch?v=OGrurtnZ2NE) (video)
 
 **Cloud Speech-To-Text**
 - Cloud Speech-To-Text : Quickstarts [client libraries](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries) | [gcloud tool ](https://cloud.google.com/speech-to-text/docs/quickstart-gcloud) | [command line](https://cloud.google.com/speech-to-text/docs/quickstart-protocol)
@@ -235,6 +243,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Community Tutorials](https://cloud.google.com/community/tutorials/)
 - [Cloud IoT step-by-step: Connecting Raspberry PI + Python](https://medium.com/google-cloud/cloud-iot-step-by-step-connecting-raspberry-pi-python-2f27a2893ab5)
 - [Building IoT Applications on Google Cloud](https://www.youtube.com/watch?v=RYaprBSDy8A)
+- [Internet of Things - Online Study Jam](https://www.youtube.com/watch?v=TD26GRotkL4) (video / Arabic)
 - Labs at qwiklabs:
     - [IoT in the Google Cloud](https://www.qwiklabs.com/quests/49) (quest)
     
