@@ -9,7 +9,7 @@ Everything helpful about Google Cloud Platform/Google Developers (First Step to 
   
     
 Feedback ? or Do you have suggestions ? Pull requests or contact me [@ADsecu](http://twitter.com/adsecu)  
-Oh , there is a flutter resources also ! [Click Here](https://github.com/pr-Mais/flutter-resources) 
+Oh , there is a **flutter resources also !** [Click Here](https://github.com/pr-Mais/flutter-resources) 
 ## Google Cloud Product
 ![GCP P](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/Poster-medres.png)
 [*by the Google Developer Relations Team*](https://github.com/gregsramblings/google-cloud-4-words)
