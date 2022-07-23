@@ -30,14 +30,14 @@ Oh , there is a **flutter resources also !** [Click Here](https://github.com/pr-
 - Creating Virtual Machine (VM): [Linux](https://cloud.google.com/compute/docs/quickstart-linux) / [Windows](https://cloud.google.com/compute/docs/quickstart-windows)
 - [Creating Virtual Machine](https://youtu.be/knw49QSI_1I) using qwiklabs (Video / Arabic)
 - [Best Practices for Managing Compute Engine VM Instances](https://www.youtube.com/watch?v=ZJNY7VAKYzw) (Video)
-- Labs at Qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - Creating Virtual Machine: [Linux](https://www.qwiklabs.com/focuses/3563?parent=catalog) / [Windows](https://www.qwiklabs.com/focuses/560?parent=catalog) (lab)
 
 **App Engine**
 - [Getting Started with App Engine](https://www.youtube.com/watch?v=-7ml51INtEM) (Video)
 - [Getting Started with App Engine (Python)](https://codelabs.developers.google.com/codelabs/cloud-app-engine-python/index.html?index=..%2F..index#0) (CodeLabs)
 - [Introduction to Google App Engine | Creating and Deploying Application](https://www.youtube.com/watch?v=RKPqDl6omDs) (Video)
-- Labs at Qwiklabs :  
+- Labs at Google Cloud Skills Boost :  
     - [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog) (lab)
     - [App Engine: Qwik Start - PHP](https://www.qwiklabs.com/focuses/2755?parent=catalog) (lab)
     - [App Engine: Qwik Start - Go](https://www.qwiklabs.com/focuses/2754?parent=catalog) (lab)
@@ -59,7 +59,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Kubernetes Engine: Google Cloud Platform](https://www.youtube.com/watch?v=VfBDrZggIzY&t) using qwiklabs (Video / Arabic)
 - [Run Containers on GCP's Serverless Infrastructure](https://www.youtube.com/watch?v=xVuuvZkYiNM) (Video)
 - [Kubernetes - Online Study Jam](https://www.youtube.com/watch?v=XeubVVDwaak) (video)
-- Labs at Qwiklabs :  
+- Labs at Google Cloud Skills Boost :  
     - [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/3662?parent=catalog) (lab)
     - [Google Kubernetes Engine Best Practices](https://www.qwiklabs.com/quests/63) (Quest)
     - [Kubernetes in the Google Cloud](https://www.qwiklabs.com/quests/29) (Quest)
@@ -70,7 +70,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Cloud Functions Overview: Get Started Building Serverless Applications](https://www.youtube.com/watch?v=JenJQ6gc14U) (Video)
 - [Cloud Functions for Firebase - Tutorials](https://www.youtube.com/playlist?list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM) (Video)
 - [Run Cloud Functions Everywhere](https://www.youtube.com/watch?v=yMEcyAkTliU) (Video)
-- Labs at Qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Cloud Functions: Qwik Start - Console](https://www.qwiklabs.com/focuses/1763?parent=catalog)
     - [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog)
 
@@ -90,7 +90,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
  +1
 - [Firebase & Google Cloud: What’s different with Cloud Storage?](https://medium.com/google-developers/firebase-google-cloud-whats-different-with-cloud-storage-a33fad7c2b80)
 - [Google Cloud Storage Community on Medium](https://medium.com/google-cloud/tagged/google-cloud-storage)
-- Labs at Qwiklabs :  
+- Labs at Google Cloud Skills Boost :  
     - [Cloud Storage: Qwik Start - Console](https://www.qwiklabs.com/focuses/1760?parent=catalog) (lab)
     - [Cloud Storage: Qwik Start - CLI/SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) (lab)
     - [Google Cloud Storage - Bucket Lock](https://www.qwiklabs.com/focuses/3483?parent=catalog) (lab)
@@ -99,7 +99,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - Cloud Filestore: [Console](https://cloud.google.com/filestore/docs/quickstart-console) | [gcloud Tool](https://cloud.google.com/filestore/docs/quickstart-gcloud)
 - [Google Cloud Filestore: Managed Files for Your Applications](https://www.youtube.com/watch?v=QJXnlYqBEi4) (Video)
 - [Building Scalable Apps with Cloud Firestore](https://www.youtube.com/watch?v=jXlYaPS1Mzk) (Video)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Cloud Filestore: Qwik Start](https://www.qwiklabs.com/focuses/1802?parent=catalog) (lab)
 ## Databases
 *Cloud SQL, Cloud Spanner, Cloud Bigtable, Cloud Firestore*  
@@ -119,7 +119,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Cloud Spanner Introduction](https://www.youtube.com/watch?v=jfcRu3rGmG8) (Video)
 - [Cloud Spanner Live Demo](https://www.youtube.com/watch?v=AC9xUc4SkvU) (Video)
 - [Cloud OnAir: Cloud Spanner: How It Works](https://www.youtube.com/watch?v=QPpSzxs_8bc) (Video)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1774?parent=catalog) (lab)
     - [Cloud Spanner: Create a Gaming Leaderboard with C#](https://www.qwiklabs.com/focuses/1815?parent=catalog) (lab)
     - [Querying Cloud Spanner With a Java Client](https://www.qwiklabs.com/focuses/2189?parent=catalog) (lab)
@@ -128,7 +128,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Overview of Cloud Bigtable](https://cloud.google.com/bigtable/docs/overview)
 - [Bigtable in action](https://www.youtube.com/watch?v=KaRbKdMInuc) (Video)
 - [Music Recommendations at Scale With Cloud Bigtable](https://www.youtube.com/watch?v=807uHC0Ia10) (Video)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Bigtable: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/579?parent=catalog) (lab)
     - [Bigtable: Qwik Start - Hbase Shell](https://www.qwiklabs.com/focuses/580?parent=catalog) (lab)
 
@@ -145,7 +145,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Analyzing Big Data in less time with Google BigQuery](https://youtu.be/qqbYrQGSibQ) (Video)
 - [BigQuery - Perfect Companion for Data Lake in GCP](https://www.youtube.com/watch?v=kGVDFzIbhco) (Video)
 - [BigQuery Tips: Nested and Repeated Fields and How GOJEK Builds Data Warehouses](https://www.youtube.com/watch?v=3TVeG_dpGxk) (Video)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [BigQuery For Data Analysis](https://www.qwiklabs.com/quests/55) (quest)
     - [Using BigQuery with C#](https://www.qwiklabs.com/focuses/2175?parent=catalog) (lab)
     - [Weather Data in BigQuery](https://www.qwiklabs.com/focuses/609?parent=catalog) (lab)
@@ -154,7 +154,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 **Cloud Pub/Sub**
 - [What Is Cloud Pub/Sub?](https://cloud.google.com/pubsub/docs/overview)
 - [Pub/Sub:quickstarts](https://cloud.google.com/pubsub/docs/quickstarts)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Google Cloud Pub/Sub: Qwik Start - Console](https://www.qwiklabs.com/focuses/3719?parent=catalog) (lab)
     - [Google Cloud Pub/Sub: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/925?parent=catalog) (lab)
     - [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) (lab)
@@ -162,7 +162,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 **Google Data Studio**
 - [Google Data Studio](https://www.youtube.com/playlist?list=PLI5YfMzCfRtag7tBfbVvA4_a6YZxWHEO4) (Video)
 - [Report Like a Boss Using Google Data Studio](https://www.youtube.com/watch?v=C1w-yuTDUeM) (Video)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Data Studio: Qwik Start](https://www.qwiklabs.com/focuses/1005?parent=catalog) (lab)
     - [Visualizing Data with Google Data Studio](https://www.qwiklabs.com/focuses/1158?parent=catalog) (lab)
     - [Visualize Real Time Geospatial Data with Google Data Studio](https://www.qwiklabs.com/focuses/1160?parent=catalog) (lab)
@@ -182,7 +182,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Cloud Speech API Demo](https://www.youtube.com/watch?v=z8g3XM16eRM) (Video)
 - [Google Speech Recognition HTTP API](https://www.youtube.com/watch?v=rMt9bb1kN7o) (Video)
 - [Sample applications : Python,PHP,C#,Node.js,java,C++,Go,Ruby and Mobile(iOS,Android)](https://cloud.google.com/speech-to-text/docs/samples)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Google Cloud Speech API: Qwik Start](https://www.qwiklabs.com/focuses/588?parent=catalog) (lab)
     - [Speech to Text Transcription with the Cloud Speech API](https://www.qwiklabs.com/focuses/2187?parent=catalog) (lab)
     - [Using the Speech-to-Text API with C#](https://www.qwiklabs.com/focuses/2177?parent=catalog) (lab)
@@ -192,7 +192,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Text-To-Speech Live Demo !](https://cloud.google.com/text-to-speech/)
 - [Your Apps Can Talk! Introducing Cloud Text-to-Speech, Powered by WaveNet Technology](https://www.youtube.com/watch?v=kJJANxQNedo) (Video)
 - Text-to-Speech API Samples : [C#](https://github.com/GoogleCloudPlatform/dotnet-docs-samples/tree/master/texttospeech) | [Go](https://github.com/GoogleCloudPlatform/golang-samples/tree/master/texttospeech) | [java](https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/texttospeech/) | [node.js](https://github.com/googleapis/nodejs-text-to-speech) | [php](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/texttospeech) | [python](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/texttospeech) | [Ruby](https://github.com/GoogleCloudPlatform/ruby-docs-samples/tree/master/texttospeech) 
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Using the Text-to-Speech API with C#](https://www.qwiklabs.com/focuses/2178?parent=catalog) (lab)
     - [It Speaks! Create Synthetic Speech Using Cloud Text-to-Speech](https://www.qwiklabs.com/focuses/1290?parent=catalog) (lab)
 
@@ -200,7 +200,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - Cloud Translation API : Quickstart [Client Libraries](https://cloud.google.com/translate/docs/quickstart-client-libraries) | [How-to Guides](https://cloud.google.com/translate/docs/how-to)
 - [Translation API - Google Cloud Python Tutorials](https://www.youtube.com/watch?v=6wlzeDaIGtw) (Video)
 - [Sample applications: Go, java, node.js, Ruby, python, php](https://cloud.google.com/translate/docs/samples)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Translate Text with the Cloud Translation API](https://www.qwiklabs.com/focuses/697?parent=catalog) (lab)
     - [Using the Translation API with C#](https://www.qwiklabs.com/focuses/2179?parent=catalog) (lab)
     
@@ -213,7 +213,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [How to use google cloud vision api : python](https://www.youtube.com/watch?v=tqFk8bzv2ys&t) (Video)
 - Setting up API and Vision Intro - Google Cloud Python Tutorials [part1](https://youtu.be/nMY0qDg16y4) | [part2](https://youtu.be/qcBk0zBOAUM) (Video)
 - [Introduction to Google Vision and the Raspberry Pi Camera](https://www.youtube.com/watch?v=p7zpfXG15ho)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     -[Machine Learning APIs](https://www.qwiklabs.com/quests/32) (quest)
     - [Using the Vision API with C#](https://www.qwiklabs.com/focuses/2181?parent=catalog) (lab)
     - [Scanning User-generated Content Using the Cloud Video Intelligence and Cloud Vision APIs](https://www.qwiklabs.com/focuses/1831?parent=catalog) (lab)
