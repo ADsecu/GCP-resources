@@ -4,12 +4,12 @@ Everything helpful about Google Cloud Platform/Google Developers (First Step to 
 - Documentations
 - Videos
 - Samples
-- Articles 
+- Articles
 
-  
-    
+
+
 Feedback ? or Do you have suggestions ? Pull requests or contact me [@ADsecu](http://twitter.com/adsecu)  
-Oh , there is a **flutter resources also !** [Click Here](https://github.com/pr-Mais/flutter-resources) 
+Oh , there is a **flutter resources also !** [Click Here](https://github.com/pr-Mais/flutter-resources)
 ## Google Cloud Product
 ![GCP P](https://raw.githubusercontent.com/priyankavergadia/google-cloud-4-words/master/DarkPoster-medres.png)
 [*by the Google Developer Relations Team*](https://github.com/gregsramblings/google-cloud-4-words)
@@ -17,8 +17,8 @@ Oh , there is a **flutter resources also !** [Click Here](https://github.com/pr-
 
 ## Overview
 + Google Cloud Platform Introduction :
-  - [Google Cloud Platform Introduction](https://youtu.be/NNPYp1paVPs) (Video / Arabic) 
-  - Google Cloud Platform - Online Study Jam: [Arabic1](https://www.youtube.com/watch?v=hkFgLFu5w8U&), [arabic2](https://www.youtube.com/watch?v=eZnmGxI_CNU), [English](https://youtu.be/hkFgLFu5w8U) 
+  - [Google Cloud Platform Introduction](https://youtu.be/NNPYp1paVPs) (Video / Arabic)
+  - Google Cloud Platform - Online Study Jam: [Arabic1](https://www.youtube.com/watch?v=hkFgLFu5w8U&), [arabic2](https://www.youtube.com/watch?v=eZnmGxI_CNU), [English](https://youtu.be/hkFgLFu5w8U)
 + [الحوسبة السحابية: مفهومها وتطبيقاتها في مجال المكتبات ومراكز المعلومات](https://www.qscience.com/docserver/fulltext/qproc/2015/1/qproc.2015.gsla.8.pdf?expires=1556143220&id=id&accname=guest&checksum=E4D20D0DDC0E4AEF80F7536A0C541F4D)
 + [Fundamentals of Google Cloud Platform: A Guided Tour](https://youtu.be/r0zCs2b_ReY) (Video)
 
@@ -80,7 +80,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 
 **Cloud Storage**
 - Cloud Storage: [Console](https://cloud.google.com/storage/docs/quickstart-console) | [gsutil tool](https://cloud.google.com/storage/docs/quickstart-gsutil)
-- [Introduction to Google Cloud Storage](https://medium.com/@robertjohn_15390/introduction-to-google-cloud-storage-e806d7341340) 
+- [Introduction to Google Cloud Storage](https://medium.com/@robertjohn_15390/introduction-to-google-cloud-storage-e806d7341340)
 - [Tutorial on Google Cloud Storage in GCP](https://medium.com/@jeevananandanne/google-cloud-storage-8afb6a860234)
 - [Google Cloud Storage | Google Cloud Platform Tutorial](https://www.youtube.com/watch?v=TVRsSiGJQvk&t) (Video)
 - [Creating Bucket on GCP | Cloud Storage](https://www.youtube.com/watch?v=sIni4YO6rnY) (Video)
@@ -111,7 +111,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Create a Managed MySQL database with Cloud SQL](https://codelabs.developers.google.com/codelabs/cloud-create-cloud-sql-db/index.html?index=..%2F..index#0) (CodeLabs)
 - [Running Microsoft SQL Server on Google Compute Engine](https://www.youtube.com/watch?v=C2BTkGuSxFk)
 - [Best Practices for Migrating to Cloud SQL for MySQL](https://www.youtube.com/watch?v=77JMe-EHIU8) (Video)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [Cloud SQL](https://www.qwiklabs.com/quests/52) (Quest)
 
 **Cloud Spanner**
@@ -191,7 +191,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - Cloud Text-To-Speech : Quickstarts [client libraries](https://cloud.google.com/text-to-speech/docs/quickstart-client-libraries) | [command line](https://cloud.google.com/text-to-speech/docs/quickstart-protocol)
 - [Text-To-Speech Live Demo !](https://cloud.google.com/text-to-speech/)
 - [Your Apps Can Talk! Introducing Cloud Text-to-Speech, Powered by WaveNet Technology](https://www.youtube.com/watch?v=kJJANxQNedo) (Video)
-- Text-to-Speech API Samples : [C#](https://github.com/GoogleCloudPlatform/dotnet-docs-samples/tree/master/texttospeech) | [Go](https://github.com/GoogleCloudPlatform/golang-samples/tree/master/texttospeech) | [java](https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/texttospeech/) | [node.js](https://github.com/googleapis/nodejs-text-to-speech) | [php](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/texttospeech) | [python](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/texttospeech) | [Ruby](https://github.com/GoogleCloudPlatform/ruby-docs-samples/tree/master/texttospeech) 
+- Text-to-Speech API Samples : [C#](https://github.com/GoogleCloudPlatform/dotnet-docs-samples/tree/master/texttospeech) | [Go](https://github.com/GoogleCloudPlatform/golang-samples/tree/master/texttospeech) | [java](https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/texttospeech/) | [node.js](https://github.com/googleapis/nodejs-text-to-speech) | [php](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/texttospeech) | [python](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/texttospeech) | [Ruby](https://github.com/GoogleCloudPlatform/ruby-docs-samples/tree/master/texttospeech)
 - Labs at Google Cloud Skills Boost:
     - [Using the Text-to-Speech API with C#](https://www.qwiklabs.com/focuses/2178?parent=catalog) (lab)
     - [It Speaks! Create Synthetic Speech Using Cloud Text-to-Speech](https://www.qwiklabs.com/focuses/1290?parent=catalog) (lab)
@@ -203,7 +203,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - Labs at Google Cloud Skills Boost:
     - [Translate Text with the Cloud Translation API](https://www.qwiklabs.com/focuses/697?parent=catalog) (lab)
     - [Using the Translation API with C#](https://www.qwiklabs.com/focuses/2179?parent=catalog) (lab)
-    
+
 
 **Cloud Vision API**
 - Cloud Vision API : Quickstarts [Client Libraries](https://cloud.google.com/vision/docs/quickstart-client-libraries) | [Drag and drop](https://cloud.google.com/vision/docs/drag-and-drop)
@@ -217,17 +217,17 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
     -[Machine Learning APIs](https://www.qwiklabs.com/quests/32) (quest)
     - [Using the Vision API with C#](https://www.qwiklabs.com/focuses/2181?parent=catalog) (lab)
     - [Scanning User-generated Content Using the Cloud Video Intelligence and Cloud Vision APIs](https://www.qwiklabs.com/focuses/1831?parent=catalog) (lab)
-    
 
 
-## Networking 
+
+## Networking
 *Cloud Load Balancing*  
-  
+
 **Cloud Load Balancing**
 - [Introduction to Load Balancing](https://www.youtube.com/watch?v=FtLhVvSFi84) (Video)
-- [Cloud Load Balancing Deep Dive and Best Practices](https://www.youtube.com/watch?v=J5HJ1y6PeyE) (Video) 
+- [Cloud Load Balancing Deep Dive and Best Practices](https://www.youtube.com/watch?v=J5HJ1y6PeyE) (Video)
 - [Set Up Network and HTTP Load Balancers](https://www.youtube.com/watch?v=F-Tt_PSPHOQ&t) (YouTube / Arabic)
-- lab at qwiklabs:
+- lab at Google Cloud Skills Boost:
     - [Networking in the Google Cloud](https://www.qwiklabs.com/quests/31) (quest)
     - [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/558?parent=catalog) (lab)
     - [HTTP Load Balancer](https://www.qwiklabs.com/focuses/699?parent=catalog) (lab)
@@ -235,7 +235,7 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 
 ## Internet of Things (IoT)
 *Cloud IoT Core*  
-  
+
 **Cloud IoT Core**
 - [Cloud IoT Core overview](https://cloud.google.com/iot/docs/concepts/overview)
 - [An overview of Cloud IoT Core](https://www.youtube.com/watch?v=7kpE44tXQak) (Video)
@@ -244,9 +244,9 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - [Cloud IoT step-by-step: Connecting Raspberry PI + Python](https://medium.com/google-cloud/cloud-iot-step-by-step-connecting-raspberry-pi-python-2f27a2893ab5)
 - [Building IoT Applications on Google Cloud](https://www.youtube.com/watch?v=RYaprBSDy8A)
 - [Internet of Things - Online Study Jam](https://www.youtube.com/watch?v=TD26GRotkL4) (video / Arabic)
-- Labs at qwiklabs:
+- Labs at Google Cloud Skills Boost:
     - [IoT in the Google Cloud](https://www.qwiklabs.com/quests/49) (quest)
-    
+
  # Extra
 
 ### Google Cloud Training
@@ -264,5 +264,5 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 ## Google developer expert (GDE)
 Need help ? look after GDE in your region [Here](https://developers.google.com/programs/experts/directory/).
 
- ## 
+ ##
 made with :heart: by [Ahmed A. Alsrehy](http://twitter.com/adsecu)
