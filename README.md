@@ -248,7 +248,9 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
     - [IoT in the Google Cloud](https://www.qwiklabs.com/quests/49) (quest)
 
 ## Google Maps Platform
-[Google Maps Platform Documentation](https://developers.google.com/maps/documentation)
+*Google Maps Platform*
+
+- [Google Maps Platform Documentation](https://developers.google.com/maps/documentation)
 - [Intro to Google Maps Platform](https://www.youtube.com/watch?v=kA679ERgBV4) (Video)
 - [Google Maps APIs - Using Maps & Location in Web Apps](https://www.udacity.com/course/google-maps-apis--ud864) (UDACITY free course by Google)
 - [خرائط جوجل - Google Maps JavaScript API](https://www.youtube.com/watch?v=OD_xEj0YF5I&list=PLXgJ7cArk9uSD8SF5iiq9dXHJKq2CGpci) (4 Videos / Arabic)
