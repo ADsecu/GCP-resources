@@ -247,6 +247,15 @@ what is Kubernetes ? [Click Here](https://www.youtube.com/watch?v=PH-2FfFD2PU&t)
 - Labs at Google Cloud Skills Boost:
     - [IoT in the Google Cloud](https://www.qwiklabs.com/quests/49) (quest)
 
+## Google Maps Platform
+[Google Maps Platform Documentation](https://developers.google.com/maps/documentation)
+- [Intro to Google Maps Platform](https://www.youtube.com/watch?v=kA679ERgBV4) (Video)
+- [Google Maps APIs - Using Maps & Location in Web Apps](https://www.udacity.com/course/google-maps-apis--ud864) (UDACITY free course by Google)
+- [خرائط جوجل - Google Maps JavaScript API](https://www.youtube.com/watch?v=OD_xEj0YF5I&list=PLXgJ7cArk9uSD8SF5iiq9dXHJKq2CGpci) (4 Videos / Arabic)
+- [Flutter Google Maps](https://www.youtube.com/watch?v=yvzdFzyrkjA&list=PL3aG1K3LWCrdRIoo-AxecQBrvxN3S23s9) (9 Videos / Arabic)
+- [Custom Interactive Maps With the Google Maps API - Full Course](https://www.youtube.com/watch?v=Cun6bRcPRcs&list=PLgGbWId6zgaXFR4SW_3qJ55cxmEqRNIzx&index=2) (Viedos)
+
+
  # Extra
 
 ### Google Cloud Training
