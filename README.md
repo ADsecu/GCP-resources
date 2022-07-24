@@ -31,15 +31,15 @@ Oh , there is a **flutter resources also !** [Click Here](https://github.com/pr-
 - [Creating Virtual Machine](https://youtu.be/knw49QSI_1I) using qwiklabs (Video / Arabic)
 - [Best Practices for Managing Compute Engine VM Instances](https://www.youtube.com/watch?v=ZJNY7VAKYzw) (Video)
 - Labs at Google Cloud Skills Boost:
-    - Creating Virtual Machine: [Linux](https://www.qwiklabs.com/focuses/3563?parent=catalog) / [Windows](https://www.qwiklabs.com/focuses/560?parent=catalog) (lab)
+    - Creating Virtual Machine: [Linux](https://www.cloudskillsboost.google/focuses/3563?parent=catalog) / [Windows](https://www.cloudskillsboost.google/focuses/560?parent=catalog) (lab)
 
 **App Engine**
 - [Getting Started with App Engine](https://www.youtube.com/watch?v=-7ml51INtEM) (Video)
 - [Getting Started with App Engine (Python)](https://codelabs.developers.google.com/codelabs/cloud-app-engine-python/index.html?index=..%2F..index#0) (CodeLabs)
 - [Introduction to Google App Engine | Creating and Deploying Application](https://www.youtube.com/watch?v=RKPqDl6omDs) (Video)
 - Labs at Google Cloud Skills Boost :  
-    - [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog) (lab)
-    - [App Engine: Qwik Start - PHP](https://www.qwiklabs.com/focuses/2755?parent=catalog) (lab)
+    - [App Engine: Qwik Start - Python](https://www.cloudskillsboost.google/focuses/1014?parent=catalog) (lab)
+    - [App Engine: Qwik Start - PHP](https://www.cloudskillsboost.google/focuses/2755?parent=catalog) (lab)
     - [App Engine: Qwik Start - Go](https://www.qwiklabs.com/focuses/2754?parent=catalog) (lab)
     - [App Engine: Qwik Start - Ruby](https://www.qwiklabs.com/focuses/954?parent=catalog) (lab)
     - [App Engine: Qwik Start - java](https://www.qwiklabs.com/focuses/951?parent=catalog) (lab)
